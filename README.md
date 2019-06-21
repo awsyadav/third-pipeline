@@ -33,6 +33,7 @@
     |        └── user_data.tpl            # Script for installing the ECS agent
     |        └── variable.tf              # Contain values
     |        └── task_defination.json     # task_defination- contain container image and resources
+    |        └── Jenkinsfile              # Pipeline for infrastructure deployment 
     ├── Dockerfile                        # swagger container image creation file
     ├── Jenkinsfile                       # pipeline for swagger-app deployment
     ├── docker-compose.yml                # docker building
