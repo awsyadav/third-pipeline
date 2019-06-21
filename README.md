@@ -1,9 +1,9 @@
-
-# Testing, Update when working
-* Browse the 
-
+# AWS Elastic Container Service (ECS) - EC2-Launch Type
 # What is ECS
 * ECS stands for EC2 Container Service and is the AWS platform for running Docker containers. The full documentation about ECS can be found here, the development guide can be found here.
+
+# EC2 Launch Type
+* The EC2 launch type allows you to run your containerized applications on a cluster of Amazon EC2 instances that you manage.
 
 # ECS infra
 * ECS needs EC2 nodes that are being used as slaves to run Docker containers on. To do so you need infrastructure for this. Here is an ECS infrastructure diagram (EC2-type).
